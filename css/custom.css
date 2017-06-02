@@ -1,0 +1,261 @@
+.fh5co-nav {
+    background-color: #f8f6f4;
+}
+#fh5co-hero .flexslider .slider-text > .slider-text-inner .btn {
+    padding: 18px 30px !important;
+    color: #fff;
+    border: none !important;
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+	    font-family: Lato-semibold;
+}
+.fh5co-counter-label {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 16px;
+    margin-bottom: 2em;
+    display: block;
+    font-family: Lato-bold;
+}
+
+.btn:hover, .btn:focus, .btn.focus {
+    color: #fff;
+    text-decoration: none;font-family: 'Lato-semibold';
+}
+#fh5co-hero .flexslider .slider-text > .slider-text-inner .btn {border-radius:3px;}
+.btn-primary {
+    background: #fe9318;
+}
+#fh5co-hero .flexslider .slider-text > .slider-text-inner .btn:hover {background: #fe9318;}
+.img-center{
+    margin: 0px auto;
+}
+
+#fh5co-course-focus {background-color:#eaeef0;}
+#fh5co-course-focus .focust-right {background-color:#0e79b8}
+#fh5co-course-focus-erp .focust-right {background-color:#fff}
+.focus {
+    padding: 49px 110px 30px 110px;
+    height: 425px;
+}
+#fh5co-hero .flexslider .slider-text > .slider-text-inner .btn:hover {
+    background: #fe9318 !important;
+}
+.cust-btn {
+    background: #fe9318 !important;
+    border-radius: 0px;
+    color: #fff;
+    border-radius: 3px;
+}
+.cust-btn-knwmore {
+    background: #575757 !important;
+    border-radius: 0px;
+    color: #fff;
+    border-radius: 3px;
+}
+.cust-btn-border {
+    background: transparent !important;
+	border:3px solid #fff !important;
+    border-radius: 3px;
+    color: #fff;
+	margin-top:20px;
+}
+.cust-btn-border-video {
+    background: transparent !important;
+	border:3px solid #fb9e33 !important;
+    border-radius: 3px;
+    color: #fb9e33;
+	margin-top:20px;
+}
+.btn {font-family: Lato-semibold;}
+.desc h3 a {
+    color: #fff !important;
+    font-family: Lato-bold;
+}
+.desc p {color:#fff;}
+.desc a {color:#fff;}
+.desc a:hover {color:#fff;}
+.cust-blog {}
+.cust-blog ul li {list-style-type:square;font-size:20px;}
+#fh5co-blog-cust {padding:4em 0;}
+.cust-facebock {
+    background: #314a7e !important;
+    border-radius: 0px;
+    margin-right: -3px;
+    color: #fff;
+	width:200px;
+	font-family: Lato;
+}
+.cust-youtube {
+    background: #e52d27 !important;
+    border-radius: 0px;
+    margin-right: -3px;
+    color: #fff;
+	width:200px;
+}
+.cust-twitter {
+    background: #339dc3 !important;
+    border-radius: 0px;
+    margin-right: -3px;
+    color: #fff;
+	width:200px;
+}
+.cust-linkedin {
+    background: #005983 !important;
+    border-radius: 0px;
+    margin-right: -3px;
+    color: #fff;
+	width:200px;
+}
+.cust-google {
+    background: #dc4335 !important;
+    border-radius: 0px;
+    margin-right: -3px;
+    color: #fff;
+	width:200px;
+}
+.fh5co-heading-social h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    line-height: 1.5;
+    color: #000;
+    text-transform: initial;
+    position: relative;
+    font-family: Lato-semibold;
+}
+.social-content{
+    margin-bottom: 75px;
+}
+.articles {background-color:#fff;padding:10px;overflow:hidden;color:#10212e;}
+.articles h3 {
+    color: #10212e !important;
+    padding-left: 17px;
+    padding-top: 18px;
+    font-family: Lato-semibold;
+}
+.articles P {
+    color: #10212e !important;
+	padding-left: 17px;
+	font-size:17px;
+}
+.article-bdy {height:180px;}
+.client-img {padding-bottom:20px;}
+.cust-btn-view-news {
+    background: #10212e !important;
+    border-radius: 0px;
+    color: #fff;
+    width: 200px;
+    border-radius: 3px;
+}
+.article-cap{
+    font-size: 14px !important;
+    text-align: right;
+    font-style: italic;
+}
+.portfolio h2 {text-align:center;color:#fff !important;font-family: 'Lato-semibold';}
+.portfolio img {margin-bottom:35px;}
+.thank-block img {margin-bottom:35px;}
+.req-consultant {padding:30px 0;text-align:center}
+.req-consultant p {
+    font-size: 48px;
+    line-height: 57px;
+	color:#fff !important;
+}
+.cust-btn-req-consultant {
+    background: #fff !important;
+    border-radius: 0px;
+    color: #10212e;
+    width: 270px;
+    border-radius: 3px;
+    box-shadow: 2px 2px 4px #100b0b;font-family: 'Lato-bold';
+}
+.cust-btn-req-consultant:hover {
+    background: #fff !important;
+    border-radius: 0px;
+    color: #10212e;
+    width: 250px;
+    border-radius: 3px;
+    box-shadow: 2px 2px 4px #100b0b;
+}
+.copy {
+    font-size: 12px !important;
+    padding-top: 12px;
+    color: #10212e !important;
+}
+#fh5co-footer .email {color:#fb9e33;}
+
+#fh5co-footer .fh5co-footer-links li a {
+    color:#10212e !important;
+    text-decoration: none;
+}
+#fh5co-footer .fh5co-footer-links li {color:#10212e;font-family: 'Lato-semibold';}
+ #fh5co-footer {
+    padding: 7em 0 0 0;
+    clear: both;
+}
+#fh5co-clients{
+	padding: 7em 0 0 0;
+    clear: both;
+}
+.fh5co-widget p {font-family: 'Lato-semibold';}
+
+.cust-btn-thank {
+    background: #c5c5c5 !important;
+    border-radius: 0px;
+    color: #fff;
+    border-radius: 3px;
+	width:200px;
+}
+.fh5co-nav-toggle {
+    top: 19px;
+   
+}
+@media (max-width:767px) and (min-width:320px) {
+	.fh5co-nav-toggle {
+    top: 5px !important;
+   
+}
+}
+@media (max-width:768px) and (min-width:320px) {
+	.focus {
+    padding: 49px 0px 30px 0px;
+    height: 425px;
+}
+}
+@media (max-width:600px) and (min-width:320px) {
+	.focus {
+    height: 475px;
+}
+.article-bdy {
+    height: 217px;
+}
+}
+.erp-content {padding:70px 0;}
+.gstr {background-color:#f3f3f5}
+.gstr img {margin:0px auto;}
+.data-content h2 {
+    font-size: 27px !important;
+    color: #fff;
+    padding: 47px 30px;
+    line-height: 34px;
+}
+.width{width:250px}
+.cust-footer-head {padding-left:5px;font-size:17px;}
+.cst-flt {float:left;}
+.main-footer {margin-bottom:40px;overflow:hidden;}
+#fh5co-register-main{
+    padding: 3em 0;
+    clear: both;
+}
+.gst-footer h4 {text-align:center;color:#fff !important;font-family: 'Lato-semibold';}
+.copy-gst {
+    font-size: 14px !important;
+    padding-top: 12px;
+    color: #10212e !important;
+}
+.gst-lst{
+    padding-left: 25px;
+    margin-top: -7px;
+    font-size: 18px;
+}
