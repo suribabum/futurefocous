@@ -245,6 +245,30 @@
     height: 385px;
 }
 }
+@media (max-width:768px) and (min-width:500px) {
+.slider-view {
+    
+    min-height: 400px !important;
+    height: 400px !important;
+    
+}
+}
+@media (max-width:450px) and (min-width:400px) {
+.slider-view {
+    
+    min-height: 250px !important;
+    height: 250px !important;
+    
+}
+}
+@media (max-width:399px) and (min-width:300px) {
+.slider-view {
+    
+    min-height: 210px !important;
+    height: 210px !important;
+    
+}
+}
 .erp-content {padding:70px 0;}
 .gstr {background-color:#f3f3f5}
 .gstr img {margin:0px auto;}
@@ -304,3 +328,181 @@
 }
 .ouroff {font-size:13px !important;}
 #fh5co-hero .flexslider .slides li:after {background: none !important;}
+.slider-view {    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+    min-height: 630px;
+    height: 630px;
+    position: relative;}
+	
+/*slider*/
+.quote {
+    color: rgba(0,0,0,.1);
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/*-------------------------------*/
+/*    Carousel Fade Transition   */
+/*-------------------------------*/
+
+#fade-quote-carousel.carousel {
+  padding-bottom: 60px;
+}
+#fade-quote-carousel.carousel .carousel-inner .item {
+  opacity: 0;
+  -webkit-transition-property: opacity;
+      -ms-transition-property: opacity;
+          transition-property: opacity;
+}
+#fade-quote-carousel.carousel .carousel-inner .active {
+  opacity: 1;
+  -webkit-transition-property: opacity;
+      -ms-transition-property: opacity;
+          transition-property: opacity;
+}
+#fade-quote-carousel.carousel .carousel-indicators {
+  bottom: 10px;
+}
+#fade-quote-carousel.carousel .carousel-indicators > li {
+  background-color: #cda16c;
+  border: none;
+}
+#fade-quote-carousel blockquote {
+    text-align: center;
+    border: none;
+}
+#fade-quote-carousel .profile-circle {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    border-radius: 100px;
+}
+.cust-slider {
+    position: absolute;
+    top: 40px;
+    left: 100px;
+    z-index: 999999;
+}
+.cust-slider-cont{
+    position: absolute;
+    top: 185px;
+    left: 602px;
+}
+.head-color {
+    color: #323641 !important;
+    font-size: 30px !important;
+    line-height: 30px;
+	font-family: Lato-semibold;
+}
+.head-color-cont {
+    color: #fff !important;
+    font-size: 30px !important;
+    line-height: 48px;
+    font-family: Lato-semibold;
+}
+@media (max-width:768px) and (min-width:500px) {
+.cust-slider {
+    position: absolute;
+    top: -50px;
+    left: 15px;
+    z-index: 999999;
+}
+.head-color {
+    color: #323641 !important;
+    font-size: 18px !important;
+    line-height: 30px;
+	font-family: Lato-semibold;
+}
+.cust-slider-cont {
+    position: absolute;
+    top: 146px;
+    left: 350px;
+}
+.head-color-cont {
+    color: #fff !important;
+    font-size: 22px !important;
+    line-height: 48px;
+    font-family: Lato-semibold;
+}
+}
+@media (max-width:425px) and (min-width:376px) {
+	.slid-img {width:100px !important;}
+	.cust-slider {
+    position: absolute;
+    top: 0px;
+    left: 35px;
+    z-index: 999999;
+}
+	.head-color {
+    color: #fff !important;
+    font-size: 16px !important;
+    line-height: 25px;
+	font-family: Lato-semibold;
+	margin-left:-20px;
+}
+.carousel-indicators {
+    position: absolute;
+    bottom: 10px;
+    left: 43%;
+    z-index: 15;
+    width: 72%;
+    margin-left: -32%;
+    padding-left: 0;
+    list-style: none;
+    text-align: center;
+}
+.cust-slider-cont {
+    position: absolute;
+    top: 60px;
+    left: 188px;
+}
+.head-color-cont {
+    color: #fff !important;
+    font-size: 18px !important;
+    line-height: 22px;
+    font-family: Lato-semibold;
+}
+}
+@media (max-width:375px) and (min-width:320px) {
+	.slid-img {width:100px !important;}
+	.cust-slider {
+    position: absolute;
+    top: 0px;
+    left: 35px;
+    z-index: 999999;
+}
+	.head-color {
+    color: #fff !important;
+    font-size: 14px !important;
+    line-height: 15px;
+	font-family: Lato-semibold;
+	margin-left:-20px;
+}
+.carousel-indicators {
+    position: absolute;
+    bottom: 10px;
+    left: 43%;
+    z-index: 15;
+    width: 82%;
+    margin-left: -32%;
+    padding-left: 0;
+    list-style: none;
+    text-align: center;
+}
+.cust-slider-cont {
+    position: absolute;
+    top: 60px;
+    left: 188px;
+}
+.head-color-cont {
+    color: #fff !important;
+    font-size: 14px !important;
+    line-height: 15px;
+    font-family: Lato-semibold;
+}
+.cust-blq {margin: 0 0 2px !important;}
+.ouroff {
+    font-size: 11px !important;
+}
+}
