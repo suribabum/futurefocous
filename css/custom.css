@@ -273,13 +273,13 @@
 .gstr {background-color:#f3f3f5}
 .gstr img {margin:0px auto;}
 .data-content h2 {
-    font-size: 27px !important;
+    font-size: 20px !important;
     color: #fff;
     padding: 47px 30px;
-    line-height: 34px;
+    line-height: 28px;
 }
 .width{width:250px}
-.cust-footer-head {padding-left:5px;font-size:17px;}
+.cust-footer-head {padding-left:5px;font-size:16px; padding-bottom: 10px;}
 .cst-flt {float:left;}
 .main-footer {margin-bottom:40px;overflow:hidden;}
 #fh5co-register-main{
@@ -295,7 +295,7 @@
 .gst-lst{
     padding-left: 25px;
     margin-top: -7px;
-    font-size: 18px;
+    font-size: 16px;
 	    margin-bottom: 25px;
 }
 .fh5co-footer-links h3 {color: #10212e !important;}
@@ -314,7 +314,7 @@
     background: #ffffff;
 }
 .cst-clr {color:#10212e !important;}
-.txt-dec {text-decoration:underline;}
+
 .img-center {margin:0px auto;}
 .cl-md {border-bottom:1px solid #ccc;overflow:hidden;margin-bottom:20px;}
 #fh5co-footer .fh5co-widget h3 {
@@ -326,7 +326,7 @@
     font-family: Lato;
     color: #10212e !important	;
 }
-.ouroff {font-size:13px !important;}
+.ouroff {font-size:16px;}
 #fh5co-hero .flexslider .slides li:after {background: none !important;}
 .slider-view {    background-repeat: no-repeat;
     background-size: cover;
@@ -431,7 +431,7 @@
 	.cust-slider {
     position: absolute;
     top: 0px;
-    left: 35px;
+    left: 21px;
     z-index: 999999;
 }
 	.head-color {
@@ -440,6 +440,9 @@
     line-height: 25px;
 	font-family: Lato-semibold;
 	margin-left:-20px;
+	margin-top: 9px;
+    width: 124px;
+	
 }
 .carousel-indicators {
     position: absolute;
@@ -451,6 +454,7 @@
     padding-left: 0;
     list-style: none;
     text-align: center;
+	display: none;
 }
 .cust-slider-cont {
     position: absolute;
@@ -469,7 +473,7 @@
 	.cust-slider {
     position: absolute;
     top: 0px;
-    left: 35px;
+    left: 20px;
     z-index: 999999;
 }
 	.head-color {
@@ -478,6 +482,7 @@
     line-height: 15px;
 	font-family: Lato-semibold;
 	margin-left:-20px;
+	width: 100px !important;
 }
 .carousel-indicators {
     position: absolute;
@@ -489,6 +494,7 @@
     padding-left: 0;
     list-style: none;
     text-align: center;
+	display: none;
 }
 .cust-slider-cont {
     position: absolute;
@@ -501,8 +507,22 @@
     line-height: 15px;
     font-family: Lato-semibold;
 }
-.cust-blq {margin: 0 0 2px !important;}
+.cust-blq {margin: -13px 0 2px !important;}
 .ouroff {
-    font-size: 11px !important;
+    font-size: 16px !important;
 }
+}
+blockquote{
+	    margin: -36px 0 20px !important;
+}
+#fh5co-blog-cust {
+    padding: 3em 0 !important;
+}
+.text-center{
+	margin-bottom: 35px !important;
+    line-height: 1.5;
+    font-size: 27px;
+}
+.fa{
+	color: #ccc !important;
 }
