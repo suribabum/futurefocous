@@ -145,8 +145,7 @@
     padding: 10px;
     border-radius: 7px;
 }
-.article-bdy-col {background-color:#ef8305;color:#fff !important;}
-.article-bdy-col p {color:#fff !important;}
+
 .client-img {padding-bottom:20px;}
 .cust-btn-view-news {
     background: #10212e !important;
@@ -526,3 +525,14 @@ blockquote{
 .fa{
 	color: #ccc !important;
 }
+.article-bdy:hover{
+
+	    background-color: #ef8305;
+	-webkit-transform: scale(1.1);
+            -ms-transform: scale(1.1);
+            transform: scale(1.1);
+			    cursor: pointer;
+	
+}
+
+.article-bdy:hover .hover-effect {color:#fff !Important;}
